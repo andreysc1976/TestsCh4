@@ -22,10 +22,10 @@ internal class DetailsPresenter internal constructor(
     }
 
     override fun onAttach() {
-        TODO("Not yet implemented")
+        count = 0
     }
 
     override fun onDetach() {
-        TODO("Not yet implemented")
+        count = 0
     }
 }
